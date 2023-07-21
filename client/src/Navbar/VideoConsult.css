@@ -1,0 +1,70 @@
+.home1 {
+  background-color: #f8e9e6;
+}
+.HomeImage1 {
+  width: 600px;
+  height: 300px;
+}
+@media screen and (max-width: 425px) {
+  img.HomeImage1 {
+    width: 300px;
+    height: 200px;
+  }
+}
+
+.card-img-top {
+  height: 200px;
+}
+.swipcard1 {
+  width: 180px;
+  height: 200px;
+}
+.swipcard2 {
+  width: 180px;
+  height: 200px;
+}
+.swipcard3 {
+  width: 180px;
+  height: 200px;
+}
+.swipcard4 {
+  width: 180px;
+  height: 200px;
+}
+.swipcard5 {
+  width: 180px;
+  height: 200px;
+}
+.swipcard6 {
+  width: 180px;
+  height: 200px;
+}
+.swipcard7 {
+  width: 180px;
+  height: 200px;
+}
+.swipcard8 {
+  width: 180px;
+  height: 200px;
+}
+.horizontial-line {
+  width: 250px;
+  height: 1px;
+  background-color: rgb(207, 204, 204);
+}
+
+@media screen and (max-width: 425px) {
+  .horizontial-line {
+    display: none;
+  }
+}
+.content {
+  overflow-x: auto;
+  white-space: nowrap;
+  width: 100%;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 0 16px;
+  overflow-x: auto;
+  overflow-y: hidden;
+}

@@ -1,0 +1,9 @@
+.aabb11 {
+  list-style: disc;
+}
+
+@media screen and (max-width: 425px) {
+  .phoneimage {
+    display: none;
+  }
+}

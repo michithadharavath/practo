@@ -1,0 +1,24 @@
+.cartButton {
+  background-color: #14bef0;
+  border: none;
+  color: white;
+  font-size: 20px;
+  font-weight: 500;
+  border-radius: 3px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding: 5px;
+  float: right;
+}
+.product-list {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 20px;
+  padding: 30px;
+}
+@media screen and (max-width: 425px) {
+  .product-list {
+    display: flex;
+    flex-wrap: wrap;
+  }
+}

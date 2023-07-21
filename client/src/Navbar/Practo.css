@@ -1,0 +1,125 @@
+.live-dia {
+  font-size: 40px;
+}
+.cardimg1,
+.cardimg2,
+.cardimg3,
+.cardimg4,
+.cardimg5 {
+  height: 150px;
+  padding-top: 20px;
+}
+.cardimg1 {
+  height: 150px;
+  padding-top: 20px;
+  background-color: #afcfed;
+}
+.cardimg2 {
+  height: 150px;
+  padding-top: 20px;
+  background-color: #98cbd6;
+}
+.cardimg3 {
+  height: 150px;
+  padding-top: 20px;
+  background-color: #ccd0db;
+}
+.cardimg4 {
+  height: 150px;
+  padding-top: 20px;
+  background-color: #afcfed;
+}
+.cardimg5 {
+  height: 150px;
+  padding-top: 20px;
+  background-color: #d5d8fc;
+}
+.card1 {
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+  /* height: 325px !important ; */
+}
+.swiper-container {
+  list-style: none;
+}
+
+.pagination {
+  bottom: 0;
+  padding-bottom: 4px;
+}
+
+/* .slide {
+  text-align: center;
+  height: 320px;
+  line-height: 320px;
+  border: 1px solid red;
+  overflow: hidden;
+  
+
+} */
+#text {
+  display: none;
+}
+.swiper-button-next:after {
+  color: black;
+  font-size: 16px !important;
+  background: #fff;
+  padding: 15px 20px;
+  border-radius: 25px;
+  margin-left: -6px;
+  box-shadow: 0 2px 8px 0 rgba(51, 60, 63, 0.22);
+}
+.swiper {
+  padding: 0 28px !important;
+}
+.swiper-button-prev:after {
+  color: black;
+  font-size: 16px !important;
+  background: #fff;
+  padding: 15px 20px;
+  border-radius: 25px;
+  margin-left: 10px;
+  box-shadow: 0 2px 8px 0 rgba(51, 60, 63, 0.22);
+}
+
+.cardimage11 {
+  background-image: url("../Navbar/images/sp-dentist@2x.jpg");
+  background-size: cover;
+}
+.cardimage12 {
+  background-image: url("../Navbar//images/sp-dietitian@2x.jpg");
+  background-size: cover;
+}
+.cardimage13 {
+  background-image: url("../Navbar/images/sp-gastroenterologist@2x.jpg");
+  background-size: cover;
+}
+.cardimage14 {
+  background-image: url("../Navbar/images/sp-general-doctor@2x.jpg");
+  background-size: cover;
+}
+.cardimage15 {
+  background-image: url("../Navbar/images/sp-general-surgeon@2x.jpg");
+  background-size: cover;
+}
+.cardimage16 {
+  background-image: url("../Navbar/images/sp-gynecologist@2x.jpg");
+  background-size: cover;
+}
+.cardimage17 {
+  background-image: url("../Navbar/images/sp-orthopedist@2x.jpg");
+  background-size: cover;
+}
+.cardimage18 {
+  background-image: url("../Navbar/images/sp-pediatrician@2x.jpg");
+  background-size: cover;
+}
+.cardimage19 {
+  background-image: url("../Navbar/images/sp-physiotherapist@2x.jpg");
+  background-size: cover;
+}
+
+.card-img-top {
+  height: 200px;
+}
+@media screen and (max-width: 425px) {
+}

@@ -1,0 +1,46 @@
+.VL{
+    height: 50PX;
+    width: 2PX;
+background-color: black;
+
+}
+.consult-doc{
+    background-color:#1d2869 ;
+
+
+}
+.consult-d{
+    background-color: #28328c;
+}
+.fortune:hover{
+    color:#8B0000;
+}
+.crunch:hover{
+    color:black;
+}
+.tech:hover{
+    color:green;
+}
+.forbes:hover{
+    color:	#4169E1;
+}
+.theeconomic:hover{
+    color:	#4682B4;
+    font-family: comphor,Verdana, Geneva, Tahoma, sans-serif;
+}
+.thewallstreet:hover{
+    color:black;
+}
+.thetimes:hover{
+    color:black
+}
+.leadinghealth{
+    width: 600px;
+    height: 600px;
+}
+@media screen and (max-width: 425px){
+    .leadinghealth{
+        width: 250px;
+        height: 300px;
+    }
+}

@@ -1,0 +1,21 @@
+.footer-c {
+  background-color: rgb(40, 50, 140);
+  color: white;
+  padding: 20px;
+}
+.pra {
+  font-size: 70px;
+}
+.dot {
+  height: 15px;
+  width: 15px;
+  background-color: #2cb7df;
+  border-radius: 50%;
+  margin-top: 55px;
+}
+a.hover {
+  text-decoration: none;
+}
+a.hover:hover {
+  text-decoration: underline;
+}
